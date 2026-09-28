@@ -1,11 +1,3 @@
 {
-  "mcpServers": {
-    "jhwebpasto": {
-      "type": "http",
-      "url": "https://jhwebpasto.com/rx/index.php?option=com_mcpserver&task=rpc.handle",
-      "headers": {
-        "Authorization": "Bearer ${c2hhMjU2OjU5MTo0NWU0ZTc4MWM3NjUwNGExYmQ4ODc3YzA4ODJlMjI4YWUwNGEyODZhNWZjZjIwYjU4MzUyOTYyZWJmYjUxNjA}"
-      }
-    }
-  }
+  "mcpServers": {}
 }
